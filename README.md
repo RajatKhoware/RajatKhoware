@@ -8,7 +8,7 @@ Rajat is a skilled Flutter developer with 8 months of experience in building mob
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [rajatkhoware2002@gmail.com](mailto:rajatkhoware2002@gmail.com)
-* 🚀  I'm currently working on [News application](http://github.com/RajatKhoware/News-application-Flutter)
+* 🚀  I'm currently working on [News application](https://play.google.com/store/apps/details?id=com.rajatkhoware.newscaster)
 * 🧠  I'm learning Flutter, ReactJs, Artificial Intelligence.
 * 🤝  I'm open to collaborating on Tech projects, AI projects.
 * ⚡  I may not have spider-like abilities, but I can code my way out of any sticky situation 😉.
