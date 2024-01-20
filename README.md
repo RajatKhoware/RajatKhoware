@@ -1,14 +1,14 @@
 Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)it's Rajat.
 =====================================================================================================================================
 
-Developer.Creator.Editor
+Flutter Developer
 ------------------------
 
-Rajat is a skilled Flutter developer with 8 months of experience in building mobile applications. He is also well-versed in web development, which allows him to create full-stack applications. In his free time, Rajat runs a successful music YouTube channel where he creates and edits music content. He is skilled in video editing and production and has knowledge of SEO for YouTube. Rajat is always eager to take on new challenges and push his boundaries as a developer.
+Rajat is a skilled Flutter developer with 2 years of experience in building mobile applications. He is also well-versed in web development, which allows him to create full-stack applications. Rajat is always eager to take on new challenges and push his boundaries as a developer.
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [rajatkhoware2002@gmail.com](mailto:rajatkhoware2002@gmail.com)
-* 🚀  I'm currently working on [News application](https://play.google.com/store/apps/details?id=com.rajatkhoware.newscaster)
+* 🚀  I'm currently working on [AI and ML]
 * 🧠  I'm learning Flutter, ReactJs, Artificial Intelligence.
 * 🤝  I'm open to collaborating on Tech projects, AI projects.
 * ⚡  I may not have spider-like abilities, but I can code my way out of any sticky situation 😉.
