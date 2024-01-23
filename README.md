@@ -1,40 +1,68 @@
-Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)it's Rajat.
-=====================================================================================================================================
-
-Flutter Developer
-------------------------
-
-Rajat is a skilled Flutter developer with 2 years of experience in building mobile applications. He is also well-versed in web development, which allows him to create full-stack applications. Rajat is always eager to take on new challenges and push his boundaries as a developer.
-
-* 🌍  I'm based in Indore, India
-* ✉️  You can contact me at [rajatkhoware2002@gmail.com](mailto:rajatkhoware2002@gmail.com)
-* 🚀  I'm currently working on [AI and ML]
-* 🧠  I'm learning Flutter, ReactJs, Artificial Intelligence.
-* 🤝  I'm open to collaborating on Tech projects, AI projects.
-* ⚡  I may not have spider-like abilities, but I can code my way out of any sticky situation 😉.
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/e2e63dc0-7d05-4a49-93ae-a5f18566c246" width="200" height="200">
 </p>
+<h2 align="center">Rajat Khoware</h2>
+<p align="center">I am a self-driven, experienced and detail centric Flutter Developer from India 🇮🇳. I love to create Flutter apps that would make life easy and enjoyable for people. Let's connect for ideas, collaboration, or Flutter opportunities! ✨ </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajat-khoware/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=RajatKhoware&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Rajatkhoware"><img src="https://img.shields.io/static/v1?label=Github&message=RajatKhoware&color=red&style=for-the-badge&logo=github&logoColor=white"></a>
+</p><br>
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/RajatKhoware" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rajat-khoware" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@hum5436" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-### Badges
+## [Amazon-FullStack-Clone](https://github.com/RajatKhoware/Amazon_Clone-Flutter)
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RajatKhoware"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RajatKhoware&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+A Full Stack Working Amazon Clone app with Admin Dashboard developed using Flutter and Backend with NodeJs and MongoDB + Atlas. The main features of this app are as sellers can post products, manage product shipment, view product sales data by the chart. as a user, can search for the products, add and update addresses and view available addresses, can buy a product, save favorite products, write a review for the product, can see the product shipping status and many more.
+
+<div class="row">
+<img src="https://user-images.githubusercontent.com/3157579/178204057-dd51e81c-bc60-41db-b626-600a1e2a130e.gif" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/178206855-2368a5e9-12bf-4110-9d50-45a91d632804.gif" width="120" height="260">
+</div>
+
+#### Technologies used
+* Written with Flutter.
+* Used NodeJS, MongoDB for backend.
+* Followed the MVVM design paradigm.
+* Used Cloudinary for image storage
+
+## [VPN-X](https://github.com/RajatKhoware/VPNX-Flutter)
+
+VPN-x, crafted by me using Flutter, serves as a robust tool for ensuring digital privacy and security. Developed for exclusive use by discerning individuals, this private app boasts features tailored for seamless VPN management. Key functionalities include a swift connection interface, robust encryption for enhanced privacy, and a user-friendly dashboard for effortless navigation. With VPN-x, users can enjoy a secure and unrestricted online experience, confident in the knowledge that their data is protected by top-tier encryption protocols, all encapsulated within a meticulously designed Flutter framework.
+
+<div class="row">
+<img src="https://github.com/RajatKhoware/VPNX-Flutter/assets/107408201/f1103de5-4af2-4f1c-a75c-63a5df0f2566" width="140" height="260"/>
+<img src="https://github.com/RajatKhoware/VPNX-Flutter/assets/107408201/3d92d923-39fd-434c-877b-ba27fea14c26" width="120" height="260">
+<img src="https://github.com/RajatKhoware/VPNX-Flutter/assets/107408201/e24405c9-cd71-4797-9f52-111e8964bdcf" width="120" height="260">
+<img src="https://github.com/RajatKhoware/VPNX-Flutter/assets/107408201/8fa06304-4798-426e-b20d-0253e921612a" width="120" height="260">
+<img src="https://github.com/RajatKhoware/VPNX-Flutter/assets/107408201/7f9304c5-2052-4239-9b2c-1e3e69f3a85e" width="120" height="260">
+</div>
+
+
+#### Technologies used
+
+* Written with Flutter.
+* Used GetX Library as State management tool.
+* Integration OpenVPN Api.
+* Followed the MVVM design paradigm.
+
+## [Newscaster - News Application](https://play.google.com/store/apps/details?id=com.rajatkhoware.newscaster)
+
+Explore a revolutionary news experience with my meticulously crafted Flutter app, now available on the Play Store. This innovative news application not only showcases my development skills but also serves as a valuable resource for users seeking real-time updates. Featuring live news across diverse categories such as investment, business, tech, health, politics, science, international affairs, and sports, users can effortlessly access top headlines, country-specific news, and more. The intuitive search function ensures quick retrieval of news on any topic, while the dedicated country screen keeps users abreast of local developments. Stay informed about the latest global and national news—download my app from the Play Store today!
+
+<a href='https://play.google.com/store/apps/details?id=com.rajatkhoware.newscaster'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="76"/></a><img src="https://chess-45a81.web.app/favicon.png" width="76" height="76" alt="website" title="website" /></a>
+
+<div class="row">
+<img src="https://play-lh.googleusercontent.com/nguP4Lc6cKiAvS9YufTEkqqCJPTXRGp4qI18rQH8KFDiecp-K4R3sbH4MbXk2tSHKRY=w526-h296-rw" width="120" height="260">
+<img src="https://play-lh.googleusercontent.com/pxXfnLT6AU83en0AhIfovzFqQz3P6lXDJDj485W3pfdSEHadAz3ptMXoGoNpBOdNvFRg=w526-h296-rw" width="120" height="260">
+<img src="https://play-lh.googleusercontent.com/Cs39pY2rHowYKPr6-0x85rtyxGsFyoiQ8lcolWUiNWv8PAEvLkgJHkRwJ8r9qTCp6yk=w526-h296-rw" width="120" height="260">
+<img src="https://play-lh.googleusercontent.com/dpAc59OXVZdufmUD2A86mfcwm2x63jYTahlk4zHpZio__laG2ORGv9oKmYPuJbAoz1w=w526-h296-rw" width="120" height="260">
+<img src="https://play-lh.googleusercontent.com/eA5iHf6EIkJGfxNWvgxQ0dHGRiVgc_5XuLQfwtfx7HaEyls50aTbacG2WtHXW6V7Hgg=w526-h296-rw" width="120" height="260">
+</div>
+
+
+#### Technologies used
+
+* Written with Flutter.
+* Followed the MVC design paradigm.
+* Integration Free Global-News Api.
+* Used Provider Library as State management tool.
