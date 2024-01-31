@@ -29,7 +29,7 @@ A Full Stack Working Amazon Clone app with Admin Dashboard developed using Flutt
 
 VPN-x, crafted by me using Flutter, serves as a robust tool for ensuring digital privacy and security. Developed for exclusive use by discerning individuals, this private app boasts features tailored for seamless VPN management. Key functionalities include a swift connection interface, robust encryption for enhanced privacy, and a user-friendly dashboard for effortless navigation. With VPN-x, users can enjoy a secure and unrestricted online experience, confident in the knowledge that their data is protected by top-tier encryption protocols, all encapsulated within a meticulously designed Flutter framework.
 
-<a href='https://play.google.com/store/apps/details?id=com.rajatKhoware.masterVpn'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="76"/></a><img src="https://chess-45a81.web.app/favicon.png" width="76" height="76" alt="website" title="website" /></a>
+<a href='https://play.google.com/store/apps/details?id=com.rajatKhoware.masterVpn'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="76"/></a>
 
 <div class="row">
 <img src="https://github.com/RajatKhoware/VPNX-Flutter/assets/107408201/f1103de5-4af2-4f1c-a75c-63a5df0f2566.gif" width="140" height="260"/>
@@ -53,7 +53,7 @@ VPN-x, crafted by me using Flutter, serves as a robust tool for ensuring digital
 
 Explore a revolutionary news experience with my meticulously crafted Flutter app, now available on the Play Store. This innovative news application not only showcases my development skills but also serves as a valuable resource for users seeking real-time updates. Featuring live news across diverse categories such as investment, business, tech, health, politics, science, international affairs, and sports, users can effortlessly access top headlines, country-specific news, and more. The intuitive search function ensures quick retrieval of news on any topic, while the dedicated country screen keeps users abreast of local developments. Stay informed about the latest global and national news—download my app from the Play Store today!
 
-<a href='https://play.google.com/store/apps/details?id=com.rajatkhoware.newscaster'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="76"/></a><img src="https://chess-45a81.web.app/favicon.png" width="76" height="76" alt="website" title="website" /></a>
+<a href='https://play.google.com/store/apps/details?id=com.rajatkhoware.newscaster'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="76"/></a>
 
 <div class="row">
 <img src="https://play-lh.googleusercontent.com/nguP4Lc6cKiAvS9YufTEkqqCJPTXRGp4qI18rQH8KFDiecp-K4R3sbH4MbXk2tSHKRY=w526-h296-rw" width="120" height="260">
