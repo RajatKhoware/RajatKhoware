@@ -9,6 +9,33 @@
   <a href="https://github.com/Rajatkhoware"><img src="https://img.shields.io/static/v1?label=Github&message=RajatKhoware&color=red&style=for-the-badge&logo=github&logoColor=white"></a>
 </p><br>
 
+## [MeinHaus](https://github.com/RajatKhoware/MeinHaus)
+
+- Designed and developed a user-friendly app that simplifies home repair, offering a user-friendly platform that connects homeowners with qualified contractors directly
+- MeinHaus app empowers efficient communication & payments between homeowners & contractors, Real-time chat using WebSockets, secure Stripe integration for Online Transaction, & Google Auto Location to (Add,Update,Delete) Address to ensure seamless project management.
+-  Phone/email verification, Notifications Using Firebase, Google Auth/Apple Login, & Project image upload foster trust & accountability and have dedicated customer support guarantees a smooth experience.
+
+
+<div class="row">
+<img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/250e5a1c-ce99-4d92-a1db-6ea0f7820c8e" width="120" height="260">
+<img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/0cd6a41b-f36e-443a-9362-28f2b42fe828" width="120" height="260">
+<img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/de4e7910-a50d-4ae6-b7d0-529bf12a93a4" width="120" height="260">
+<img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/2553f2dd-9e2b-45ff-b13e-eb76fb2ab87d" width="120" height="260">
+<img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/6b0db744-5564-4a12-8def-2915a8367944" width="120" height="260">
+<img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/f5efc1f7-c091-4a6c-acea-ce27e4cdfa93" width="120" height="260">
+<img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/8c1f3e1d-e5b2-4ac1-a88a-e491a80ae153" width="120" height="260">
+<img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/adfd38b1-3c5f-4de8-a293-50c764e2b455" width="120" height="260">
+</div>
+
+#### Technologies used
+* Written with Flutter.
+* Used Bloc as State management tool.
+* Followed the CLean Architeture design pattern.
+* Used Pusher as Websocket for Chatting
+* Stripe Integration for Smooth Online Payments
+* Google Auto Location API Integration
+
+  
 ## [Amazon-FullStack-Clone](https://github.com/RajatKhoware/Amazon_Clone-Flutter)
 
 
