@@ -59,7 +59,7 @@ VPN-x, crafted by me using Flutter, serves as a robust tool for ensuring digital
 <a href='https://play.google.com/store/apps/details?id=com.rajatKhoware.masterVpn'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="76"/></a>
 
 <div class="row">
-<img src="https://github.com/RajatKhoware/VPNX-Flutter/assets/107408201/f1103de5-4af2-4f1c-a75c-63a5df0f2566.gif" width="140" height="260"/>
+<!-- <img src="https://github.com/RajatKhoware/VPNX-Flutter/assets/107408201/f1103de5-4af2-4f1c-a75c-63a5df0f2566.gif" width="140" height="260"/> -->
 <img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/7e132b27-bd55-489a-842d-e2aa8d183a7e.png" width="120" height="260">
 <img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/afb749d3-27a3-4108-9ac8-375b48ab15b0.png" width="120" height="260">
 <img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/0275e0f8-3bec-4b55-a398-4559f1313af0.png" width="120" height="260">
