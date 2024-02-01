@@ -15,6 +15,7 @@
 - MeinHaus app empowers efficient communication & payments between homeowners & contractors, Real-time chat using WebSockets, secure Stripe integration for Online Transaction, & Google Auto Location to (Add,Update,Delete) Address to ensure seamless project management.
 -  Phone/email verification, Notifications Using Firebase, Google Auth/Apple Login, & Project image upload foster trust & accountability and have dedicated customer support guarantees a smooth experience.
 
+<a href='https://play.google.com/store/apps/details?id=ca.meinhaus.app.user&pcampaignid=web_share'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="76"/></a>
 
 <div class="row">
 <img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/250e5a1c-ce99-4d92-a1db-6ea0f7820c8e" width="120" height="260">
