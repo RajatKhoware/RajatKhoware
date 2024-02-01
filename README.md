@@ -18,11 +18,11 @@
 
 <div class="row">
 <img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/250e5a1c-ce99-4d92-a1db-6ea0f7820c8e" width="120" height="260">
-<img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/0cd6a41b-f36e-443a-9362-28f2b42fe828" width="120" height="260">
+<!-- <img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/0cd6a41b-f36e-443a-9362-28f2b42fe828" width="120" height="260"> -->
 <img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/de4e7910-a50d-4ae6-b7d0-529bf12a93a4" width="120" height="260">
 <img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/2553f2dd-9e2b-45ff-b13e-eb76fb2ab87d" width="120" height="260">
 <img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/6b0db744-5564-4a12-8def-2915a8367944" width="120" height="260">
-<img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/f5efc1f7-c091-4a6c-acea-ce27e4cdfa93" width="120" height="260">
+<!-- <img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/f5efc1f7-c091-4a6c-acea-ce27e4cdfa93" width="120" height="260"> -->
 <img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/8c1f3e1d-e5b2-4ac1-a88a-e491a80ae153" width="120" height="260">
 <img src="https://github.com/RajatKhoware/RajatKhoware/assets/107408201/adfd38b1-3c5f-4de8-a293-50c764e2b455" width="120" height="260">
 </div>
